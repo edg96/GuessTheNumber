@@ -2,7 +2,7 @@
 
 This retro-style browser game challenges players to guess a number between 1 and 20. The simple yet engaging interface provides a fun and addictive experience, perfect for casual gaming.
 
-[Take a live look at my website powered by ](link)
+[Take a live look at my website powered by Vercel](https://guess-the-number-kappa-two.vercel.app/)
 
 <img src="./images/screen.png" />
 
